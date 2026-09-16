@@ -22,3 +22,12 @@ print(f"Доля обеспеченных домов: {ratio:.2%}")
 
 - Входные `GeoDataFrame` должны иметь одинаковый CRS.
 - При пустых входных данных выбрасывается `EmptyGeoDataFrameError`.
+
+
+## Установка
+
+```bash
+pip install infra-access
+```
+
+Пакет опубликован на PyPI: https://pypi.org/project/infra-access/
